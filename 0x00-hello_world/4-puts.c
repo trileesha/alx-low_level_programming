@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- *main - entry point (4-puts.c)
- *return: always 0 (success)
- */
+ *main - print a line of code using puts
+ *
+ *Return: Always 0
+*/
 
 int main(void)
 {
