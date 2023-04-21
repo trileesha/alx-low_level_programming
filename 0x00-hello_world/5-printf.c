@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main - a program that prints the line exactly
- *return; always 0 (success)
+ *Return: always 0 (success)
  */
 int main(void)
 {
